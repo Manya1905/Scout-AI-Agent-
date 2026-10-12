@@ -1,0 +1,10 @@
+Want to build AI that reaches a global bank’s real users, but not sure where to start? UBS is putting AI at the core of how we work, and the Chief Transformation Office is where that transformation is engineered. We’re looking for ambitious students to join us for a 2027 summer internship as an AI intern.
+
+As An AI Intern, You’ll Help Us Build, Test, And Ship AI-enabled Applications That Improve How Thousands Of Colleagues Work Across The Firm. Working Alongside Experienced Engineers And Product Managers, You’ll
+
+ design and build AI agents that automate, augment, or fully reinvent how work gets done across UBS
+ apply core generative AI techniques, including prompt engineering, retrieval augmented generation (RAG), embeddings, MCP, LangGraph, and emerging agentic patterns, to deliver real production cases
+ map and redesign business workflows around AI agents, pinpointing where automation and reasoning remove friction and improve outcomes
+ build across the agent spectrum, using no-code and low-code platforms for fast iteration, and pro-code frameworks where deeper customization, integrations, or extensions are needed
+ iterate on agent quality, improving accuracy, reliability, and usefulness through systematic testing, evaluation, and refinement
+ collaborate with product, business, and platform teams to turn high-impact use cases into deployed agents that real users rely on

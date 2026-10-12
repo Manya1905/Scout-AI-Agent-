@@ -1,0 +1,49 @@
+About Marvell 
+
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities. 
+
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. 
+
+Your Team, Your Impact
+
+The Compute and Custom Solutions (CCS) Business Unit within Marvell develops cutting-edge SoCs and processors in advanced process nodes for some of the largest companies in the world. We develop silicon solutions for the growing data center, enterprise, wireless, and automotive compute markets, collaborating with strategic customers from architecture and design all the way through layout, packaging, prototype validation, and production ramp-up.
+The CCS DFT (Design for Test) team is a key part of Marvell's global DFT community, with global ownership and responsibility for delivering generic and more advanced custom DFT architecture solutions, methodology, and design. The team provides technology development, EDA/methodology development, and IP/chip design development. As an intern, you will be working with this team to directly enable customer DFT requirements in the CCS BU, gaining hands-on experience with industry-leading tools and methodologies used to build some of the world's most complex SoCs.
+What You Can Expect
+
+Develop understanding of the block level or chip top DFT and pattern generation flows for complex SOC designs
+Execute DFT insertion, pattern generation and verification flows for Scan, Memory Built-in Self-Test (MBIST), Boundary Scan and IP macro test
+Run DFT checks and analyze results to resolve testability issues and improve DFT coverage
+Support DFT flow automation through scripting (Tcl, Python, or shell) to improve design flows
+Contribute to DFT documentation, methodology improvements and automation
+Present intern project results to the team at the end of the internship
+What We're Looking For
+
+Currently pursuing a Masters in Computer Engineering, Electrical Engineering, or related fields  
+Good understanding of digital logic design using Verilog/System Verilog
+Knowledge of DFT concepts, JTAG standards and Boundary scan implementation
+Knowledge of Scan test, memory BIST/BISR, functional test, JTAG, and other test methodologies is a plus
+Experience in programming and scripting languages such as Python, Shell, Tcl
+Knowledge of using AI assisted tools for coding, scripts and automation is a plus
+Effective teamwork and communication skills  
+Expected Base Pay Range (USD)
+
+30 - 59, $ per hour.
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.
+
+
+
+Additional Compensation and Benefit Elements 
+
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com.
+
+Interview Integrity 
+
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews.
+
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
+
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.
+
