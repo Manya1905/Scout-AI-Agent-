@@ -16,7 +16,7 @@ def get_job_info(keyword: str)->dict:
     """
 
     keyword = keyword.lower() # normalize the keyword
-    folder = Path("c:\\Users\\minni\\Documents\\Agentic Stuff\\Scout Tracker\\postings") # get filepath to the postings
+    folder = Path("c:\\Users\\minni\\Documents\\Agentic Stuff\\Scout Tracker\\Postings") # get filepath to the postings
     results = {}
     if re.search("^\s+$", keyword) != None or keyword == "":
         results["error"] = "Whitespace/empty string was entered as the keyword value - invalid. Try again"
